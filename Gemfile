@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
+gem 'rack-cors', require: 'rack/cors'
 
 ruby '2.3.3'
 
