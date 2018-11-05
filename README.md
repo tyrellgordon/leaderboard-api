@@ -1,24 +1,34 @@
-# README
+# XQuest Leaderboard API
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+The back end for the XQuest Leaderboard Application
 
-Things you may want to cover:
+## Getting Started
 
-* Ruby version
+ Clone this repository into a directory of your choosing
 
-* System dependencies
+### Prerequisites
 
-* Configuration
 
-* Database creation
 
-* Database initialization
+Ruby/ Ruby on Rails 
+Postgresql
 
-* How to run the test suite
+### Installing
 
-* Services (job queues, cache servers, search engines, etc.)
+In the project directory run 
 
-* Deployment instructions
+1. bundle install
+2. rails s -p 3001 
 
-* ...
+
+
+
+## Built With
+
+Ruby/Ruby on Rails
+
+## Authors
+
+* **Tyrell Gordon** 
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
